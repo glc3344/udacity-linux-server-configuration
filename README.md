@@ -135,4 +135,7 @@ XV: **Restart apache for changes to effect**
 
 **DONE!**
 
+thanks to [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) on deploying my flask app
+
+thanks to [rrjoson](https://github.com/rrjoson/udacity-linux-server-configuration/blob/master/README.md) and [iiliketomatoes](https://github.com/iliketomatoes/linux_server_configuration) for help with the readme
 
